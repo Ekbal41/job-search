@@ -1,0 +1,87 @@
+{
+  "usableSessionsCount": 2,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_0027EiHgz8",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-10-19T17:21:17.160Z",
+      "createdAt": "2023-10-19T16:31:17.160Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_ib1UxY6VSK",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "_ga_VX826T9WTR",
+            "value": "GS1.1.1697733083.1.0.1697733083.0.0.0",
+            "expires": "2024-11-22T16:31:23.388Z",
+            "domain": "caretutors.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-10-19T16:31:29.597Z",
+            "lastAccessed": "2023-10-19T16:31:29.597Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.2.1507737390.1697733083",
+            "expires": "2024-11-22T16:31:23.816Z",
+            "domain": "caretutors.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-10-19T16:31:29.600Z",
+            "lastAccessed": "2023-10-19T16:31:29.600Z"
+          },
+          {
+            "key": "_gid",
+            "value": "GA1.2.1754913801.1697733084",
+            "expires": "2023-10-20T16:31:23.000Z",
+            "domain": "caretutors.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-10-19T16:31:29.603Z",
+            "lastAccessed": "2023-10-19T16:31:29.603Z"
+          },
+          {
+            "key": "_gat_gtag_UA_56842288_1",
+            "value": "1",
+            "expires": "2023-10-19T16:32:23.000Z",
+            "domain": "caretutors.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-10-19T16:31:29.606Z",
+            "lastAccessed": "2023-10-19T16:31:29.606Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-10-19T17:21:17.168Z",
+      "createdAt": "2023-10-19T16:31:17.168Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}
